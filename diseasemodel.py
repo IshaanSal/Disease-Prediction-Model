@@ -32,7 +32,7 @@ y_train = df[0:4920,132]
 
 print(x_train)
 print(y_train)
-
+ 
 x_test = df2[0:42,0:132]
 y_test = df2[0:42,132]
 print(x_test)
